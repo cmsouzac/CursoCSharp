@@ -21,7 +21,7 @@ namespace dev.Basico
 
             /*
              * Esse é um comentario de multiplas
-             * linhas
+             * linhass
              */
 
             Console.WriteLine("O C# tem o XML Comments");
